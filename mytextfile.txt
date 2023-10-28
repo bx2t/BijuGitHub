@@ -1,3 +1,4 @@
 
 1. This is a sample text file carrying a message.
 2. This is another sentence I am adding.
+3. It has been an amazing day.
